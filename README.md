@@ -1,5 +1,7 @@
 # tonbai.github.io
 # tonbai's Portfolio
-## Data Analytics Project
-## Data Entry
-## Recruiter
+Data Analytics
+
+Data Entry
+
+Recruiter
